@@ -19,7 +19,7 @@ I enjoy working with real-world datasets to identify trends, understand customer
 
 ## 📊 Featured Projects
 
-# 🌦️ Weather & Air Quality Dashboard (Power BI)
+### 🌦️ Weather & Air Quality Dashboard (Power BI)
 ## 📊 Project Overview
 
 This project is an interactive **Weather Forecast & Air Quality Dashboard** built using **Power BI**. It fetches real-time data using API integration and provides insights into temperature trends, weather conditions, and pollution levels across different locations.
