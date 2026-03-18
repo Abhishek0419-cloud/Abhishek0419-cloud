@@ -19,20 +19,30 @@ I enjoy working with real-world datasets to identify trends, understand customer
 
 ## 📊 Featured Projects
 
+# 🌦️ Weather & Air Quality Dashboard (Power BI)
+## 📊 Project Overview
+
+This project is an interactive **Weather Forecast & Air Quality Dashboard** built using **Power BI**. It fetches real-time data using API integration and provides insights into temperature trends, weather conditions, and pollution levels across different locations.
+
+---
+
+
 ### 🏨 Hotel Booking Cancellation Analysis
+## 📊 Project Overview
 
 Analyzed 100k+ hotel booking records to identify major cancellation drivers and suggest strategies to reduce revenue loss.
 **Tools:** Python, Pandas, Matplotlib, Power BI
 
+
+---
+
+
 ### 🛒 Ecommerce / Sales Analysis
+## 📊 Project Overview
 
 Explored sales performance, product trends, and customer behavior to support marketing and inventory decisions.
 **Tools:** SQL, Excel, Power BI
 
-### 🌐 Website Performance Analysis
-
-Evaluated visitor behavior, bounce rate, and conversion trends to identify underperforming pages and improve engagement.
-**Tools:** Python, Pandas
 
 ---
 
